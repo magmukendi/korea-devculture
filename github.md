@@ -9,12 +9,12 @@
 | 네이버 | 227 | 753 | https://github.com/naver |
 | 인베슘 | 172 | 20 | https://github.com/hamonikr |
 | 삼성전자 | 152 | 403 | https://github.com/Samsung |
-| 센드버드 | 169 | 160 | https://github.com/sendbird |
+| 센드버드 | 169 | 161 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 107 | https://github.com/devsisters |
 | 리디 | 115 | 86 | https://github.com/ridi |
 | 라인 | 105 | 491 | https://github.com/line |
-| 당근마켓 | 102 | 391 | https://github.com/daangn |
-| NHN | 104 | 363 | https://github.com/nhn |
+| 당근마켓 | 102 | 392 | https://github.com/daangn |
+| NHN | 104 | 364 | https://github.com/nhn |
 | 래블업 | 110 | 38 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 20 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -42,7 +42,7 @@
 | 카카오엔터프라이즈 | 16 | 51 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
 | 몰로코 | 13 | 59 | https://github.com/moloco |
-| 네이버제트 | 10 | 41 | https://github.com/naverz |
+| 네이버제트 | 10 | 42 | https://github.com/naverz |
 | SK텔레콤 | 4 | 17 | https://github.com/sktelecom |
 | 컬리 | 8 | 40 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
